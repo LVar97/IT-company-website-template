@@ -1,0 +1,10 @@
+.element__subtitile{
+	width: 350px;
+	min-height: 117px;
+	margin: 0;
+	padding: 20px 0;
+	font-weight: normal;
+	font-size: 16px;
+	line-height: 25px;
+	color: #999999;
+}

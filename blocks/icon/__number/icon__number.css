@@ -1,0 +1,12 @@
+.icon__number{
+	max-width: 54px;
+	min-height: 35px;
+	position: absolute;
+	top: -5px;
+	right: 0;
+	font-weight: normal;
+	font-size: 36px;
+	line-height: 53px;
+	color: #000000;
+	margin: 0;
+}

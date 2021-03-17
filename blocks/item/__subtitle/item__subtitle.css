@@ -1,0 +1,12 @@
+.item__subtitle{
+	max-width: 222px;
+	font-weight: normal;
+	font-size: 14px;
+	line-height: 22px;
+
+	/* grey */
+
+	color: #999999;
+	margin: 0 auto;
+	padding-left: 30px;
+}

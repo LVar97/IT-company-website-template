@@ -1,0 +1,9 @@
+.header__line{
+	width: 100%;
+	display: flex;
+	align-items: flex-end;
+	justify-content: flex-end;
+	border-bottom: 1px solid rgba(161, 161, 161, 0.5);
+	margin-bottom: 219px;
+	
+}

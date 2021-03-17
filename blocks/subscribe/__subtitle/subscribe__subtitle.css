@@ -1,0 +1,17 @@
+.subscribe__subtitle{
+	max-width: 730px;
+	font-weight: normal;
+	font-size: 16px;
+	line-height: 25px;
+	text-align: center;
+	color: #999999;
+	margin: 0 auto;
+	padding: 30px 0 20px;
+}
+
+@media screen and (max-width: 970px){
+	.subscribe__subtitle{
+		max-width: 300px;
+		font-size: 20px;
+	}
+}

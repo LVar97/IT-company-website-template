@@ -1,0 +1,10 @@
+.servic{
+	max-width: 1113px;
+	min-height: 488px;
+	padding: 100px 0 105px;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	margin: 0 auto;
+}

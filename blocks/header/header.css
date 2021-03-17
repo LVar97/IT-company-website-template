@@ -1,0 +1,13 @@
+.header{
+	background-image: url('../../image/Rectangle.jpg');
+	background-position: cover;
+	background-repeat: no-repeat;
+	width: 100%;
+	min-height: 900px;
+	color: #fff;
+	
+	display: flex;
+	flex-direction: column;
+	
+	align-items: center;
+}

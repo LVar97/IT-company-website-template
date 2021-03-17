@@ -1,0 +1,5 @@
+.servic__items{
+	display: flex;
+	justify-content: space-between;
+	padding-bottom: 55px;
+}

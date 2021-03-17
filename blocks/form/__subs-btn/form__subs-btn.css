@@ -1,0 +1,24 @@
+.form__subs-btn{
+	width: 190px;
+	height: 45px;
+	margin: 0;
+	color: #4985FF;
+	padding: 0;
+	transition: 1s ease;
+	border: 1px solid;
+	cursor: pointer;
+
+	border-radius: 0px 30px 30px 0px;
+}
+
+.form__subs-btn:hover{
+	box-shadow: 0px 0px 10px rgba(111, 111, 111, 0.25);
+}
+
+@media screen and (max-width: 970px){
+	.form__subs-btn{
+		width: 300px;
+		border: 2px solid;
+		letter-spacing: 3px;
+	}
+}

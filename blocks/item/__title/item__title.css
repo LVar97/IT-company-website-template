@@ -1,0 +1,10 @@
+.item__title{
+	max-width: 226px;
+	font-weight: 600;
+	font-size: 18px;
+	line-height: 22px;
+
+	color: #000000;
+	margin: 0 auto;
+	padding: 25px 0 10px 30px;
+}

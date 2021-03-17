@@ -1,0 +1,13 @@
+.menu{
+	width: 538px;
+	min-height: 59px;
+	display: flex;
+	justify-content: space-around;
+	align-items: start;
+	margin: 0;
+	padding: 40px 40px 0 0;
+	/* padding-bottom: 220px;
+	padding-right: 405px; */
+	align-self: flex-end;
+	z-index: 2;
+}

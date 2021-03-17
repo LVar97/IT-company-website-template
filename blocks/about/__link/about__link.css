@@ -1,0 +1,12 @@
+.about__link{
+	max-width: 220px;
+	color: #4985FF;
+	font-size: 16px;
+	line-height: 20px;
+	opacity: 1;
+	transition: opacity 1s ease-out;
+}
+
+.about__link:hover{
+	opacity: 0.6;
+}

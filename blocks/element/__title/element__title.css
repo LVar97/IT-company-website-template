@@ -1,0 +1,9 @@
+.element__title{
+  white-space: nowrap;
+  margin: 0;
+  max-width: 281px;
+
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 22px;
+}

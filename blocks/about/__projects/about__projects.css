@@ -1,0 +1,7 @@
+.about__projects{
+	max-width: 1020px;
+	margin: 0 auto;
+	display: flex;
+	justify-content: space-between;
+	padding: 70px 0 70px;
+}

@@ -1,0 +1,8 @@
+.projects__list{
+	display: grid;
+	grid-template-columns: repeat(4, 255px);
+	grid-template-rows: repeat(1, 255px);
+	column-gap: 30px;
+	/* margin-bottom: 50px; */
+	margin: 0 auto 50px;
+}

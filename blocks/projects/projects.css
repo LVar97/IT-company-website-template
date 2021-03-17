@@ -1,0 +1,9 @@
+.projects{
+	width: 100%;
+	background: #F6F6F8;
+	margin-top: 510px;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+
+}
